@@ -8,7 +8,7 @@ setuptools.setup(
     description="A simple library for moving average and 1st order low-pass filter",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/pinklab-art/signal_processor",  # 깃헙 등 저장소 URL
+    url="https://github.com/pinklab-art/signal_processor", 
     packages=setuptools.find_packages(),
     python_requires=">=3.6",
     install_requires=[],
