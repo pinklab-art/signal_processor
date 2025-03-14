@@ -21,7 +21,7 @@ class SignalProcessor:
         self._buffer = []
         self._prev_filtered_value = 0.0
 
-    def plot_signals(time, signal, ma_output, lp_output, x_range=None):
+    def plot_signals(self, time, signal, ma_output, lp_output, x_range=None):
         import numpy as np
         import matplotlib.pyplot as plt
 

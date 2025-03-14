@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name="pw-signal-processor",           
-    version="0.1.1",
+    version="0.1.2",
     author="PinkWink",
     author_email="pinkwink@pinklab.art",
     description="A simple library for moving average and 1st order low-pass filter",
